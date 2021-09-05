@@ -12,7 +12,7 @@ fi
 
 if test ! -f ./sample1.js; then
 	echo "Downloading nodejs source file..."
-	wget -c https://raw.githubusercontent.com/bahmanjalal/MTProtoProxy/master/sample1.js -O sample1.js
+	wget -c https://raw.githubusercontent.com/bahmanjalal/nodejs_mtproxy/master/sample1.js -O sample1.js
 fi
 
 
