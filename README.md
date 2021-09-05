@@ -21,7 +21,7 @@ sudo apt install nodejs
 sudo apt install npm
 ```
 ```sh
-wget -c https://raw.githubusercontent.com/bahmanjalal/MTProtoProxy/master/fastsetup.sh
+wget -c https://raw.githubusercontent.com/bahmanjalal/nodejs_mtproxy/master/fastsetup.sh
 ```
 then edit ./fastsetup.sh by entering 
 ```sh
