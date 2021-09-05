@@ -168,7 +168,7 @@ else
 	});
 
 
-	requireFromURL('https://raw.githubusercontent.com/bahmanjalal/MTProtoProxy/master/mtprotoproxy.js').then(function({MTProtoProxy})
+	requireFromURL('https://raw.githubusercontent.com/bahmanjalal/nodejs_mtproxy/master/mtprotoproxy.js').then(function({MTProtoProxy})
 	{
 		let telegram=new MTProtoProxy(
 		{
